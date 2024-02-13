@@ -3,6 +3,9 @@ body, html {
     padding: 0;
     height: 100%;
     overflow: hidden;
+    background-image: url('/images/41 Cute Valentine iPhone Wallpapers Free To Download.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 .container {
